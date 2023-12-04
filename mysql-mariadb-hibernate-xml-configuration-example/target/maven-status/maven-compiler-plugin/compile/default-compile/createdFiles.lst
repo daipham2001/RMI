@@ -1,0 +1,9 @@
+com\rmi\server\HibernateUtil.class
+com\rmi\server\App.class
+com\rmi\server\entities\Department.class
+com\rmi\server\Server.class
+com\rmi\server\SqlTest.class
+com\rmi\server\service\DepartmentService.class
+com\rmi\server\dao\IDao.class
+com\rmi\server\entities\Employee.class
+com\rmi\server\service\EmployeeService.class
